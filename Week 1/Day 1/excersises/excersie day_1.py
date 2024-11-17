@@ -1,6 +1,6 @@
 
 word = "raquel"
-for letter in word:
+for letter in "raquel":
     print(letter)
 
 # word = ("hello world\n")

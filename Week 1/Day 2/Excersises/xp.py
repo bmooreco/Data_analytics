@@ -36,5 +36,5 @@ sample_dict = {
    }
 }
 
-print(sample_dict)["history: grade"]
+print(sample_dict)
 
